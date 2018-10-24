@@ -1,0 +1,10 @@
+{
+  "name": "voices-of-vr-data",
+  "version": "1.0.0",
+  "description": "a collection of scripts, data, and metadata related to the Voices of VR podcast ",
+  "main": "index.js",
+  "repository": "https://github.com/micahstubbs/voices-of-vr-data.git",
+  "author": "contributors",
+  "license": "Apache-2.0",
+  "private": false
+}
