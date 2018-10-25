@@ -1,0 +1,26 @@
+episode,starttime,endtime,type,sub-type,identifier,attributes,relationship-1,relationship-1-attributes,relationship-2,relationship-2-attributes
+708,,,person,interviewee,Sam Roberts,"skills:game/play curator, game designer",org:IndieCade,"roles:[festival director, curator]",,
+708,,,person,interviewer,Kent Bye,,,,,
+708,,,date,interview,2018-10-13,,,,,
+708,,,date,publish,2018-10-23,,,,,
+708,140.92,169.48,person,mention,Stephanie Barish,,org:IndieCade,roles:CEO,person:Tracy Fullerton,roles:friend
+708,163.209,184.269,person,mention,Tracy Fullerton,,game:The Night Journey,roles:creator,person:Bill Viola,roles:collaborator
+708,169.48,180.1,person,mention,Bill Viola,skills:film video artist,game:The Night Journey,roles:creator,person:Tracy Fullerton,roles:collaborator
+708,180.1,187.81,person,mention,Tracy Fullerton,,"game:Walden, A Game",roles:creator,,
+708,184.269,191.92,person,mention,Tracy Fullerton,,"relationship:[Stephanie Barish, Celia Pierce]",actions:connected,"relationship:[Stephanie Barish, Sam Roberts]",actions:connected
+708,187.81,219.069,person,mention,Stephanie Barish,,person:Celia Pearce,introduced-by:Tracy Fullerton,person:Sam Roberts,introduced-by:Tracy Fullerton
+708,187.81,219.069,person,mention,Celia Pearce,skills:game/play curator,person:Stephanie Barish,introduced-by:Tracy Fullerton,,
+708,187.81,219.069,person,mention,Sam Roberts,,person:Stephanie Barish,introduced-by:Tracy Fullerton,,
+708,263.8,274.24,person,mention,Mark Bolas,,entity:a VR lab,,,
+708,274.24,279.88,person,mention,Nonny de la Peña,,,,,
+708,335.92,409.74,person,mention,Liam Burke,,game:unnamed,"roles:creator, type: tabletop RPG",,
+708,403.65,444.15,person,mention,Pietro Riva,"skills:game developer, from:Milan Italy",,,,
+708,476.789,490.5,person,mention,Doug Wilson,skills:game creator,person:Nils Deneken,roles:collaborator,,
+708,482.189,490.5,person,mention,Nils Deneken,skills:game creator,person:Doug Wilson,roles:collaborator,,
+708,542.329,550.069,person,mention,Michael Mateas,,org:UC Santa Cruz Expressive Intelligence Studio,roles:runs,topic:AI,
+708,625.459,647.32,person,mention,Jenova Chen,,game:flOw,roles:creator,topic:AI,
+708,1239.34,1245.61,person,mention,Kent Bye,,person:Noah (Nelson?),roles:interviewee,,
+708,1239.34,1245.61,person,mention,Noah (Nelson?),,person:Kent Bye,roles:interviewer,,
+708,1616.309,1650.27,person,mention,Sutu,"skills:AR/VR artist, aka: Stuart Campbell",event:Spatial Reality: Artists Explore the Future of XR,"roles:artist, location: Pasadena CA",topic:AR,
+708,1782.72,1832.999,person,mention,Joseph Campbell,skills:author,concept:hero's journey,roles:creator,,
+708,2207.63,2718.92,person,mention,Sam Roberts,,,,,
