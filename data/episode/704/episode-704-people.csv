@@ -1,0 +1,26 @@
+episode,starttime,endtime,type,sub-type,identifier,mentioned-by,attributes,relationship-1,relationship-1-attributes,relationship-2,relationship-2-attributes
+704,,,person,interviewee,Robin Hunicke,,"skills:[game design teacher, game designer]",org:UC Santa Cruz,"roles:game design teacher, location: Santa Cruz CA",org:Funomena,"roles:co-founder, games:Luna"
+704,,,person,interviewer,Kent Bye,,,,,,
+704,,,date,interview,date:2018-09-27,,,,,,
+704,,,date,publish,date:2018-10-09,,,,,,
+704,,,topics,,"[theory of game design, experiential design, consciousness, triggering experiences, curating]",,,,,,
+704,,,venue,interview,Oculus Connect 5,,location: San Jose CA,,,,
+704,376,,person,mention,Yelena Rachitsky,Kent Bye,topics:game design,event:Oculus Connect 5,"roles:speaker, topics:hierarchy of being",,
+704,1640,,person,mention,Beyonce,Robin Hunicke,"topics:[physical interactions, physical expression]",event:a concert,"roles:[singer, dancer]",,
+704,2199,,person,mention,Cabbibo,Robin Hunicke,"aka:Isaac Cohen, skills:VR artist","topics:[embodiment, fidelity]",,,
+704,2362,,person,mention,Bernardo Kastrup,Kent Bye,skills:philosopher,topics:consciousness,media:VOVR-ep698,,
+704,2373,,person,mention,Carlo Rovelli,Kent Bye,skills:theoretical physicist,,,,
+704,2454,,person,mention,James Ladyman,Robin Hunicke,topics:metaphysics,book:Every Thing Must Go: Metaphysics Naturalized,roles:author,,
+704,2691,,person,mention,Aristotle,Kent Bye,skills:philosopher,topics:philosophy,,,
+704,2778,,person,mention,Molly Bloom,Robin Hunicke,"topics:[traumatic portrayals in media, ethics, curating, triggering]",film:Molly's Game,roles:subject,,
+704,3157,,person,mention,Han Solo,Robin Hunicke,"is:fictional character, topics:[female representation, curating]",film:Solo: A Star Wars Story,"roles:subject, franchise:Star Wars",,
+704,3229,,person,mention,Brett Kavanaugh,Robin Hunicke,,"topics:[news, triggering, curating]",,,
+704,3360,,person,mention,Jason Haber,Robin Hunicke,,org:Funomena,roles:General Manager,,
+704,3543,,person,mention,Ken Wilber,Kent Bye,,,media:VOVR-ep594,,
+704,3549,,person,mention,Don Beck,Kent Bye,,topics:spiral dynamics,,,
+704,3552,,person,mention,Clare Graves,Kent Bye,,topics:spiral dynamics,,,
+704,3553,,person,mention,Chris Cowan,Kent Bye,,topics:spiral dynamics,,,
+704,3619,,person,mention,Joseph Campbell,Kent Bye,,topics:hero's journey,,,
+704,3699,,person,mention,Pema Chodron,Robin Hunicke,,topics:connectedness vs individual,,,
+704,4028,,person,mention,Yelena Rachitsky,Kent Bye,topics:human-centered design,presentation:The Hierarchy of Being: Embodying Our Virtual Selves,"roles:speaker, venue:Oculus Connect 5, date:2018-09-26, copresenter:Isabel Tewes",org:Oculus,roles:Creative Producer
+704,4028,,person,mention,Isabel Tewes,Kent Bye,topics:human-centered design,presentation:The Hierarchy of Being: Embodying Our Virtual Selves,"roles:speaker, venue:Oculus Connect 5, date:2018-09-26, copresenter:Yelena Rachitsky",org:Oculus,roles:Developer Strategist
