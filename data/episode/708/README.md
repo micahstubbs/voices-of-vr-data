@@ -5,3 +5,5 @@
 [vovr-ep708-yt-transcript.xml](vovr-ep708-yt-transcript.xml) transcript from YouTube / Google Video
 
 http://video.google.com/timedtext?lang=en&v=FozuEZaSifk
+
+[people (.csv)](episode-708-people.csv)
