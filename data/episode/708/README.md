@@ -6,4 +6,4 @@
 
 http://video.google.com/timedtext?lang=en&v=FozuEZaSifk
 
-[people (.csv)](episode-708-people.csv)
+[people (.csv)](vovr-ep708-people.csv)

@@ -4,4 +4,4 @@
 
 see auto-generated transcript on [YouTube](https://www.youtube.com/watch?v=muITY_vs-FQ)
 
-[people (.csv)](episode-704-people.csv)
+[people (.csv)](vovr-ep704-people.csv)
